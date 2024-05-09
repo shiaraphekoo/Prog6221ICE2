@@ -1,0 +1,11 @@
+C:\Users\pheko\source\repos\progice2\bin\Debug\progice2.exe.config
+C:\Users\pheko\source\repos\progice2\bin\Debug\progice2.exe
+C:\Users\pheko\source\repos\progice2\bin\Debug\progice2.pdb
+C:\Users\pheko\source\repos\progice2\obj\Debug\progice2.csproj.AssemblyReference.cache
+C:\Users\pheko\source\repos\progice2\obj\Debug\progice2.Properties.Resources.resources
+C:\Users\pheko\source\repos\progice2\obj\Debug\progice2.csproj.GenerateResource.cache
+C:\Users\pheko\source\repos\progice2\obj\Debug\progice2.csproj.CoreCompileInputs.cache
+C:\Users\pheko\source\repos\progice2\obj\Debug\progice2.exe
+C:\Users\pheko\source\repos\progice2\obj\Debug\progice2.pdb
+C:\Users\pheko\source\repos\progice2\obj\Debug\progice2.Form1.resources
+C:\Users\pheko\source\repos\progice2\obj\Debug\progice2.MainForm.resources
